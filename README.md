@@ -1,1 +1,1 @@
-    - [DEMO LINK](https://Sveta-Kryukova.github.io/Bose_landing/)
+    - [DEMO LINK](https://sveta-kryukova.github.io/Bose_landing/)
