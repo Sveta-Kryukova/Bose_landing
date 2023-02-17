@@ -1,11 +1,17 @@
 <h1>Bose landing page</h1>
 
+![Screenshot_1](https://user-images.githubusercontent.com/116656921/219711534-f35bf000-81dd-4fe6-96b1-59223185d592.jpg)
+
+
 [DEMO LINK](https://sveta-kryukova.github.io/Bose_landing/)
 
 <h2>Description</h2>
 Web page for Bose that produce headphones and earbuds speakers etc. Project can be used on desctop, tablet and mobile screens. Page have a burger menu where every item navigate user to appropriate paragraph on the page. All phone numbers and email adresses redirect user to modal form. Images and buttons has effects when user hover on item. Also page have a Contact us form which is cleared after request (implemented with JavaScript)
 
+![modalWindow](https://user-images.githubusercontent.com/116656921/219711335-5199920a-4587-4bdd-a419-384a5f8cef04.jpg)
+
 <h2>Technologies used</h2>
+
 <ul>
 <li>HTML</li>
 <li>SCSS</li>
